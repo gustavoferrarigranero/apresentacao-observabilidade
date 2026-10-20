@@ -22,7 +22,9 @@ php artisan queue:work --queue=reminders
 php artisan schedule:work
 ```
 
-Abra `http://127.0.0.1:8000/demo/observability` para acompanhar as etapas. Telescope e Pulse já estão disponíveis nos links da página.
+Abra `http://127.0.0.1:8000/demo/observability`
+para acompanhar as etapas.
+Telescope e Pulse já estão disponíveis nos links da página.
 
 ## Artefatos preparados
 
